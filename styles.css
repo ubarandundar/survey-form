@@ -1,0 +1,31 @@
+@media (min-width: 768px) {
+    .container {
+        max-width: 650px;
+    }
+}
+
+body {
+    margin-bottom: 50px;
+    background-color: #d9d9ec;
+}
+
+.main-body {
+    background-color: #4528b4;
+    color: white;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='number'],
+select {
+    width: 100%;
+}
+
+input::placeholder {
+    padding: 7px;
+}
+
+textarea,
+#submit {
+    width: 100%;
+}
