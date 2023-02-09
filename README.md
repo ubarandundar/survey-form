@@ -2,7 +2,7 @@
 
 ## User Stories:
 
-Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
+**Objective:** Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 1. You should have a page title in an h1 element with an id of title
 
